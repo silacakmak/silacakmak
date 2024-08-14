@@ -11,12 +11,12 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C4%B1la%C3%A7akmak/)
 
 <br><br>
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=silacakmak&show_icons=true&theme=radical" alt="Sıla's GitHub stats">
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silacakmak&langs_count=10&theme=radical" alt="Language stats">
     </td>
   </tr>

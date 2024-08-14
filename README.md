@@ -11,8 +11,15 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C4%B1la%C3%A7akmak/)
 
 <br><br>
-
-![Sıla's GitHub stats](https://github-readme-stats.vercel.app/api?username=silacakmak&show_icons=true&theme=radical)  
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=silacakmak&langs_count=10&theme=radical) 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=silacakmak&show_icons=true&theme=radical" alt="Sıla's GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silacakmak&langs_count=10&theme=radical" alt="Language stats">
+    </td>
+  </tr>
+</table>
 
 

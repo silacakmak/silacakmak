@@ -12,7 +12,7 @@
 
 <br><br>
 
-<th>![Sıla's GitHub stats](https://github-readme-stats.vercel.app/api?username=silacakmak&show_icons=true&theme=radical)  </th>
-<th>![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=silacakmak&langs_count=10&theme=radical) </th>
+![Sıla's GitHub stats](https://github-readme-stats.vercel.app/api?username=silacakmak&show_icons=true&theme=radical)  
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=silacakmak&langs_count=10&theme=radical) 
 
 
